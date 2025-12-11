@@ -59,13 +59,8 @@ export const docsConfig: DocsConfig = {
           priority: true,
         },
         {
-          title: 'Navigation',
-          href: '/docs/ui-patterns/navigation',
-          items: [],
-        },
-        {
-          title: 'Layout',
-          href: '/docs/ui-patterns/layout',
+          title: 'Charts',
+          href: '/docs/ui-patterns/charts',
           items: [],
         },
         {
@@ -76,6 +71,21 @@ export const docsConfig: DocsConfig = {
         {
           title: 'Forms',
           href: '/docs/ui-patterns/forms',
+          items: [],
+        },
+        {
+          title: 'Layout',
+          href: '/docs/ui-patterns/layout',
+          items: [],
+        },
+        {
+          title: 'Navigation',
+          href: '/docs/ui-patterns/navigation',
+          items: [],
+        },
+        {
+          title: 'Tables',
+          href: '/docs/ui-patterns/tables',
           items: [],
         },
       ],
@@ -241,11 +251,6 @@ export const docsConfig: DocsConfig = {
         {
           title: 'Carousel',
           href: '/docs/components/carousel',
-          items: [],
-        },
-        {
-          title: 'Chart',
-          href: '/docs/components/chart',
           items: [],
         },
         {
